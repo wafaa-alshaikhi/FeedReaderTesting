@@ -1,4 +1,5 @@
-# FeedReader
+# Feed-Reader-Testing
+
 
  This project build with `html` , `css` and `JavaScript`.
 
@@ -71,7 +72,3 @@ After that, open the `index.html` and check the test results.
 [IIFE Function](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 
 [Feed Reader Testing](https://www.youtube.com/watch?v=_XwH-xfvydw&t=154s)
-# Feed-Reader-Testing
-# Feed-Reader-Testing
-# Feed-Reader-Testing
-# FeedReader
