@@ -67,8 +67,8 @@ After that, open the `index.html` and check the test results.
 
 ## References
 
-[Jasmine documentation](https://jasmine.github.io/pages/getting_started.html)
+* [Jasmine documentation](https://jasmine.github.io/pages/getting_started.html)
 
-[IIFE Function](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
+* [IIFE Function](https://developer.mozilla.org/en-US/docs/Glossary/IIFE)
 
-[Feed Reader Testing](https://www.youtube.com/watch?v=_XwH-xfvydw&t=154s)
+* [Feed Reader Testing](https://www.youtube.com/watch?v=_XwH-xfvydw&t=154s)
