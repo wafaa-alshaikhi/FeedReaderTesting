@@ -60,7 +60,7 @@ You can run the application in two ways :
 * Clone or fork this project:
 
 ```html
-
+https://github.com/wafaades1417/FeedReaderTesting.git
 ```
 
 After that, open the `index.html` and check the test results.
